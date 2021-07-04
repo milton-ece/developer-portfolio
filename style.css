@@ -11,8 +11,9 @@ section{
     display: flex;
 }
 .half-width{
-    width: 50%;
+    width: 80%;
+    padding-left: 70px;
 }
 .half-width img{
-    width: 80%;
+    width: 50%;
 }

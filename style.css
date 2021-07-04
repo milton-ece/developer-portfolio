@@ -11,11 +11,11 @@ section{
     display: flex;
 }
 .half-width{
-    width: 80%;
-    padding-left: 70px;
+    width: 50%;
+    padding-left: 40px;
 }
 .half-width img{
-    width: 50%;
+    width: 80%;
 }
 .link-button{
     text-decoration: none;
